@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 96px;
+  padding: 92px 50px 85px;
 }
 .header__links-list {
   display: flex;
@@ -68,7 +68,7 @@
 }
 .aligned-text_right {
   text-align: right;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.3em;
 }
 .cover__description {
   position: relative;
