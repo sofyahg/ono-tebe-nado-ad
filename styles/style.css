@@ -172,7 +172,7 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  margin: 180px 24px 0;
+  margin: 155px 24px 0;
 }
 .about__logo {
   display: flex;
